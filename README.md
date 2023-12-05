@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+The goal of this project is to see if we can infer any sort of trends between the number of bikes in a chosen location (Montreal) and the points of interest in said location.
 
 ## Process
 ### (your step 1)
