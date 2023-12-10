@@ -21,7 +21,8 @@ Step 7: Building a regression model to explain the relationship between number o
 ## Results
 Comparing the two APIs, my dataset seems to have better data coverage with Yelp since many ratings under the Foursquare API appeared to be null whereas Yelp did not have any null values.
 
-The final model has an Adj. R-Squared value of 0.7%, which is not a good model fit. I ended up only removing two variables out of the five that I originally included and removed the variables with the highest p-value.
+The final model has an Adj. R-Squared value of 0.7%, which does not suggest a good model fit, meaning the variables do not affect the number of bikes at a station. 
+I ended up only removing two variables out of the five that I originally included and removed the variables with the highest p-value.
 If I kept going, I would have to remove all the variables so I just kept it at three variables.
 
 The linear regression model equation is as follows:
